@@ -1,0 +1,30 @@
+{
+  "name": "auto-swap-bot",
+  "version": "1.0.0",
+  "description": "Auto swap bot for USDT/USDC on Base network",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@uniswap/sdk-core": "^7.7.2",
+    "@uniswap/universal-router-sdk": "^3.0.3",
+    "@uniswap/v4-sdk": "^1.21.4",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.10.0"
+  },
+  "keywords": [
+    "swap",
+    "defi",
+    "base",
+    "usdt",
+    "usdc",
+    "trading"
+  ],
+  "author": "Swap Bot",
+  "license": "MIT"
+}
