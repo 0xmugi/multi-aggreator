@@ -4,7 +4,7 @@ const CHAIN_CONFIG = {
         name: "Base Mainnet",
         explorers: ["https://basescan.org"],
         rpcUrls: [
-            "https://1rpc.io/base",
+            "https://base.llamarpc.com",
             "https://base.meowrpc.com", 
             "https://base.drpc.org",
             "https://endpoints.omniatech.io/v1/base/mainnet/public"
