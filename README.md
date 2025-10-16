@@ -21,7 +21,7 @@ Bot otomatis yang dioptimalkan untuk melakukan swap **USDT ⇄ USDC** secara bol
 ### 1️⃣ Clone repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/0xmugi/multi-aggreator.git
 cd multi-aggregator
 ```
 
